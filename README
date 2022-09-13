@@ -1,0 +1,14 @@
+// export default function (req, res) {
+//   const parts = url.split('/');
+//   if (parts.length && parts[0] === 'api') {
+//     req.body = bodyParser(req);
+//     const resource = routes[parts[1]];
+
+//     const route = resource[req.method.toLowerCase()];
+
+//     route(req, res);
+//     return;
+//   }
+
+//   notFound(req, res);
+// }
