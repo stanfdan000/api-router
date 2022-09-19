@@ -20,3 +20,6 @@
   // const handler = resource[httpMethod];
 
   // handler(req, res);
+
+   // candies.splice(candies.length - 1, 1, req.body);
+    // res.write(JSON>stringify(candies));
