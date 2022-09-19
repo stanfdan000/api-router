@@ -12,3 +12,11 @@
 
 //   notFound(req, res);
 // }
+
+
+// / const resourcePath = urlSegments[urlSegments.length - 1];
+  // const resource = routes[resourcePath];
+  // console.log(resource);
+  // const handler = resource[httpMethod];
+
+  // handler(req, res);
