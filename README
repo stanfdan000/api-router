@@ -1,0 +1,25 @@
+// export default function (req, res) {
+//   const parts = url.split('/');
+//   if (parts.length && parts[0] === 'api') {
+//     req.body = bodyParser(req);
+//     const resource = routes[parts[1]];
+
+//     const route = resource[req.method.toLowerCase()];
+
+//     route(req, res);
+//     return;
+//   }
+
+//   notFound(req, res);
+// }
+
+
+// / const resourcePath = urlSegments[urlSegments.length - 1];
+  // const resource = routes[resourcePath];
+  // console.log(resource);
+  // const handler = resource[httpMethod];
+
+  // handler(req, res);
+
+   // candies.splice(candies.length - 1, 1, req.body);
+    // res.write(JSON>stringify(candies));
